@@ -29,11 +29,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springboot-dao" target="1.5" />
-      <module name="springboot-entity" target="1.5" />
-      <module name="springboot-service" target="1.5" />
-      <module name="springboot-web" target="1.5" />
-      <module name="springbootTest" target="1.5" />
+      <module name="springboot-dao" target="1.8" />
+      <module name="springboot-entity" target="1.8" />
+      <module name="springboot-service" target="1.8" />
+      <module name="springboot-web" target="1.8" />
+      <module name="springbootTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
